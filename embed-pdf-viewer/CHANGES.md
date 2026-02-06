@@ -1,5 +1,9 @@
 #### [unreleased]
 
+#### 2.4.7 / 2025-02-05
+* validate destination URL
+* add `max-height: 500px;` to PDF display
+
 #### 2.4.6 / 2024-11-01
 * remove `load_plugin_textdomain()`
 
